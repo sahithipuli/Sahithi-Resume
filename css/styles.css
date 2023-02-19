@@ -1,0 +1,39 @@
+body {background-color:#EAF6F6;
+        line-height: 2;
+        margin-left: 50px;
+    }
+hr {
+    width:5%;
+    border-color:grey;
+    border-style:none;
+    border-top-style:dotted ;
+    border-width:5px;
+}
+h1 {
+    font-family: 'Alex Brush';
+    text-align: center;
+    }
+    h2{
+        text-align: justify;
+        
+    }
+
+h3 { color: #03001C;
+    text-decoration-line: underline;
+
+}
+tr,th{
+    width:150px;
+    text-align:justify;
+}
+
+.forest{
+    text-align: justify;
+    width:40%;
+    margin:10px 20px 10px 150px;
+}
+.intrusion{
+    text-align:justify ;
+    width:70%;
+    margin:10px 150px 10px 20px;
+}
