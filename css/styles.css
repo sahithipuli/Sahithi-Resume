@@ -1,7 +1,7 @@
 body {background-color:#EAF6F6;
         line-height: 2;
         margin-left: 50px;
-        font-size:large;
+        font-size:medium;
     }
 hr {
     width:5%;
@@ -31,7 +31,7 @@ tr,th{
 .forest{
     text-align: justify;
     width:60%;
-    margin:10px 20px 10px 150px;
+    margin:10px 20px 10px 100px;
 }
 .intrusion{
     text-align:justify ;
